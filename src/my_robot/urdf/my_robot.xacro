@@ -203,7 +203,7 @@
 
     <joint name="hokuyo_joint" type="fixed">
         <origin
-            xyz="${base_radius - lidar_edge_length/4} 0 ${sensors_base_heigth/2}"
+            xyz="${base_radius - lidar_edge_length/3} 0 ${sensors_base_heigth/2}"
             rpy="0 0 0"
         />
         <parent link="sensors_base" />
