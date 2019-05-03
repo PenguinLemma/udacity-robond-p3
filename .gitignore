@@ -6,5 +6,9 @@ build/*
 devel/
 devel/*
 
+# Ignore pgm_map_creator directory and their contents
+pgm_map_creator/
+build/*
+
 # Ignore the catkin workspace file
 .catkin_workspace
