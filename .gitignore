@@ -6,9 +6,13 @@ build/*
 devel/
 devel/*
 
-# Ignore pgm_map_creator directory and their contents
+# Ignore pgm_map_creator directory and its contents
 pgm_map_creator/
-build/*
+pgm_map_creator/*
+
+# Ignore teleop_twist_keyboard directory and its contents
+teleop_twist_keyboard/
+teleop_twist_keyboard/*
 
 # Ignore the catkin workspace file
 .catkin_workspace
