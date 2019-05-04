@@ -34,7 +34,7 @@
     />
 
     <node name="rviz" pkg="rviz" type="rviz" respawn="false"
-          args="-d $(find my_robot)/config/rviz_config.rviz"
+          args="-d $(find my_robot)/rviz/rviz_config.rviz"
     />
 
 
