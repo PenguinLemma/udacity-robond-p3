@@ -5,12 +5,9 @@ Where Am I - Project 3 of the Udacity Robotics Software Engineer Nanodegree
 
 ## Description
 
+This project uses Adaptive Monte Carlo Localization (http://wiki.ros.org/amcl) to locate the robot in the map of the world in which it is placed.
 
-## Instructions
-
-
-## Future improvements
-
+Robot and world are slight modifications of those in previous projects.
 
 ## License
 Original version of the license of this repository can be found here:
